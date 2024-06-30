@@ -66,3 +66,17 @@
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=black"/>
   <img alt="SVN" src="https://img.shields.io/badge/svn-%23809CC9?style=for-the-badge&logo=subversion&logoColor=black"/>
 </p>
+
+
+<br>
+<br>
+
+
+<h2 align="left">
+  <img src="https://slackmojis.com/emojis/4979-thinking/download" width="30"/>
+  Stats
+</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GwonSuhyeon&exclude_repo=CVBasedSafetyDriving,COVID19_Cough_Classifier,AlwaysCare&layout=donut&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GwonSuhyeon&theme=dark&show_icons=true&icon_color=ffffff&hide_rank=false&rank_icon=github"/>
+</p>
