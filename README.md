@@ -24,7 +24,7 @@
   <img src="https://slackmojis.com/emojis/12510-kirby_dance/download" width="30"/>
   Experiences
 </h2>
-<h4 align="left">
+<h3 align="left">
   Intern, Deep-In-Sight.
   
   >Location: Seongnam-si, Gyeonggi-do, Republic of Korea.
