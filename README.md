@@ -5,8 +5,8 @@
 
 <p align="center">
   <img src="https://slackmojis.com/emojis/223-kirby/download" width="30"/>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+6B0A 6D19 8CE2.;This+is+my+name!&font=Roboto+Mono&duration=4000&pause=1500&color=eaeaeaff&background=000000ff&center=true&vCenter=true&random=false&width=430">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+have+a+strong+interest+in+AI%2C+Vision%2C+DL.;And+I'm+also+somewhat+interested+in;+3D+Reconstruction%2C+Robotics%2C+and+SLAM.;+My+goal+is+to+become+an+AI+research+engineer.&font=Roboto+Mono&size=14&duration=3000&pause=1500&color=eaeaeaff&background=000000ff&center=true&vCenter=true&random=false&width=430">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+6B0A 6D19 8CE2.;This+is+my+name!&font=Roboto+Mono&duration=4000&pause=1500&color=eaeaeaff&background=000000ff&center=true&vCenter=true&random=false&width=420">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+have+a+strong+interest+in+AI%2C+Vision%2C+DL.;And+I'm+also+somewhat+interested+in;+3D+Reconstruction%2C+Robotics%2C+and+SLAM.;+My+goal+is+to+become+an+AI+research+engineer.&font=Roboto+Mono&size=14&duration=3000&pause=1500&color=eaeaeaff&background=000000ff&center=true&vCenter=true&random=false&width=420">
 </p>
 
 <!--
