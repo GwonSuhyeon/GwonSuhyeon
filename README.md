@@ -64,7 +64,9 @@
   <img alt="Jira" src="https://img.shields.io/badge/jira-%230052CC?style=for-the-badge&logo=jira&logoColor=black"/>
   <img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172B4D?style=for-the-badge&logo=confluence&logoColor=black"/>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=black"/>
+  <!--
   <img alt="SVN" src="https://img.shields.io/badge/svn-%23809CC9?style=for-the-badge&logo=subversion&logoColor=black"/>
+  -->
 </p>
 
 
