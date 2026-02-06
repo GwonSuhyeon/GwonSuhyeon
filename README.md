@@ -28,7 +28,7 @@
   Experiences
 </h2>
 <h3 align="left">
-  Intern, Deep-In-Sight.
+  Deep-In-Sight.
   
   >Location: Seongnam-si, Gyeonggi-do, Republic of Korea.
 >
